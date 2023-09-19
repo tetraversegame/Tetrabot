@@ -1,2 +1,2 @@
 # Tetrabot
-A bot for the Discord alternative Guilded!
+A bot for Discord that uses the Tetraverse API :D
